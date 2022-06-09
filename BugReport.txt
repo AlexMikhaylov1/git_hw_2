@@ -1,2 +1,23 @@
-first line
-second line
+Testing	
+	Testing Project		Sport Shop Com
+	Testing App Version	v. 0.1 
+	Date			04 June 2022
+		
+Tester	
+  	Tester		Alexander Mikhaylov
+	OS		Windows 10 21H2 64-bit
+	Browser		Chrome 102.0.5005.63 64-bit
+		
+Bug	
+  	Bug ID	1
+	Bug Summary		Can't add item to basket if basket already contains one item
+	Step to reproduce	Add any first item to empty basket, then add any second item to basket that alredy have first item
+	Expected result		Basket contains two items
+	Actual result		Basket contains only first item
+	Additional Description	No dependencies found on which items are added as first and second
+		
+Tracking	
+  	Bug severity	S3 Critical 
+	Bug priority	P1 High 
+	Status		Assigned
+	Assigned to	Kristina C.
