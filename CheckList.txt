@@ -1,0 +1,29 @@
+Functional testing
+-Check sitemap and links
+-Check dropdowns, buttons, checkboxes, input fields and forms
+-Check site’s process flow
+-Check cookies
+-Check syntax erorrs
+
+Perfomance testing
+-Stress testing
+-Load testing
+-Stability testing
+-Concurrency testing
+-Volume testing
+-Endurance testing
+-Page load speed testing
+-User's slow internet connecions testing
+
+Security testing
+-Identification
+-Authentication
+-Authorization
+-Captchas
+-Session terminated cases
+-Page encryptions
+
+Compatibility testing
+-Different devices
+-Different operation systems
+-Different resolutuions
